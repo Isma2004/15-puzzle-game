@@ -1,0 +1,4 @@
+Search Method,Average_Depth,Average_Nodes_Expanded,Average_Fring_Size,Average_Branching_Factor
+breadthFirstSearch,4.76,282.75,310.68,2.64
+depthFirstSearch,12.63,346407.28,32.94,3.54
+uniformCostSearch,4.76,282.75,461.84,2.64
